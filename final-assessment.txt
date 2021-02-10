@@ -1,0 +1,15 @@
+var myDog = "Spot"
+
+integer = whole number
+var numberOfItems = 2
+var numberOfApples = 1
+
+var pizza = "pepperoni"
+var isHungry = true
+var number = 1
+var number = 2
+var teachers = ["Ellen", "Robert, "David"]
+var breadsticks = "garlic"
+var food = "pepperoni" + "breadsticks"
+const str = "pizza" + "" + "breadsticks"
+var = ["Ellen", "Robert"]
